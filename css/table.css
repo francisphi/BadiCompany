@@ -1,0 +1,95 @@
+ th , td {
+	border: 4px solid skyblue;
+	border-color: #48acf0;
+    
+border-radius: 	10%;
+}
+table{
+	width: 80%;
+}
+tr {
+	height: 60px;
+	background-color: 	black	;
+	text-align: 	center;
+}
+.black{
+border: 	none	;
+background-color: 	black;
+}
+body{
+  background-size: cover;
+	background-color: black	;
+}
+div{
+	font-size: 	60%;
+
+}
+.number{
+	font-size: 70%	;
+	text-align: left;
+	color: whitesmoke;
+}
+td{
+color: lightblue	;
+font-size: 	150%;
+
+}
+.t{
+	font-size: 50%;
+	color: whitesmoke;
+}
+.red{
+color: #ff5349;
+border-color: #ff5349;
+}
+.orange{
+	color: orange;
+	border-color: orange;
+}
+.yellow{
+	border-color: yellow;
+	color: yellow;
+}
+.lightblue{
+	color: lightblue;
+	border-color: lightblue;
+}
+.yellowgreen{
+	color: yellowgreen;
+	border-color: yellowgreen;
+}
+.blue{
+	color: blue;
+	border-color: blue;
+}
+.velvet{
+	color: violet;
+	border-color: violet;
+}
+.purple{
+	color: purple;
+	border-color: purple;
+}
+.powderblue{
+	border-color:  #004F98;
+	color:#004F98 ;
+}
+.color{
+	color: whitesmoke;
+
+}
+.num{
+	font-size: 70%;
+	border-color: black;
+	color: whitesmoke;
+	border: none;
+	padding: 1%;
+  
+}
+.num2{
+	border: none;
+	color: whitesmoke;
+	text-align: left;
+	font-size: 80%;
+
+}
